@@ -1,7 +1,6 @@
 """Import the Account class from the Account.py file."""
 # ADD YOUR CODE HERE
 from Account import Account
-from Account import SavingsAccount(Account)
 
 def create_cd_account(balance, interest_rate, months):
     """Creates a CD account, calculates interest earned, and updates the account balance.
